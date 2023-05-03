@@ -13,7 +13,7 @@
     "env": {
         "API_KEY": {
             "description": "التوكن",
-            "value": "6022228026:AAH4MwFk3sNno832jZ9SorCsVbHBheK2c-0",
+            "value": "",
             "required": true
         }
     }
