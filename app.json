@@ -1,0 +1,20 @@
+{
+    "name": "Eighthon",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://graph.org/file/0eab2a7cc000a59535d18.png",
+    "repository": "https://github.com/rick1128/eighthon",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/perdark/per-sed",
+    "env": {
+        "API_KEY": {
+            "description": "التوكن",
+            "value": "6022228026:AAH4MwFk3sNno832jZ9SorCsVbHBheK2c-0",
+            "required": true
+        }
+    }
+}
